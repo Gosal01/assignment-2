@@ -5,5 +5,5 @@ const Op = db.Sequelize.Op;
 
 // Calculate stats
 exports.calculate = (req, res) => {
-    
+
 };
